@@ -1,6 +1,9 @@
 # OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers
-OLPart is tested on a CentOS 7.8 Server with Linux 4.1.0 using Python3.7. Please install the following library depencies for running OLPart.
+OLPart is tested on a server configured with CentOS 7.8 (Linux 4.1.0) and Python 3.7.
 
+OLPart uses the Linux _perf_ to collect runtime status of each job for guiding the quick and smart exploration. 
+Please ensure that Intel CAT, MBA, and taskset tools are supported and active in your system.
+Click this link to confirm: https://github.com/intel/intel-cmt-cat.
 
 # The benchmark suites evaluated in Orchid
 
@@ -39,15 +42,13 @@ sudo yum install intel-cmt-cat
 sudo yum install msr-tools
 sudo yum install docker
 ```
-OLPart uses the Linux _perf_ to collect runtime status of each job for guiding the quick and smart exploration. 
-Please ensure that Intel CAT, MBA, and taskset tools are supported and active in your system.
-Click this link to confirm: https://github.com/intel/intel-cmt-cat.
+
 
 ### Instantiate jobs in the docker
 Each job is instantiated in a separate container, we use _docker_ to create containers.
 Please run _Dockerfile_ to create the containers. 
 >The open-loop load generators for LC jobs are provided by Tailbench itself. All the load generators use exponential inter-arrival time
-distributions to simulate a Poisson process, where requests are sent continuously and independently at a constant
+distributions to simulate a Poisson process, where requests are sent continuously and independently at a constant
 average rate.
 
 Then we record all evaluated jobs' docker ppid (as shown as _APP_DOCKER_PPID_ in file _run_and_get_config.py_ ).
