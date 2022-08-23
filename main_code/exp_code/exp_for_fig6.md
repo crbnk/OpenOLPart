@@ -1,9 +1,9 @@
 > The purpose of the experiment is as follows:
 
-> Run the colocation which only contains LC jobs ('img-dnn', 'xapian', 'moses') at 
-different load to evaluate that OLPart can colocate more LC jobs and at much higher loads.}
+> Run the colocation which only contains LC jobs (img-dnn, xapian, moses) at 
+different load to evaluate that OLPart can colocate LC jobs at much higher loads.
 
-> Fix the load of 'img-dnn' and 'xapian' at some loads, and gradually increase
+> Fix the load of img-dnn and xapian at some loads, and gradually increase
 the load pressure of 'moses' find the highest tolerable load
 for guaranteeing the QoS for all the three jobs.
 

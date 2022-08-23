@@ -1,0 +1,135 @@
+ERROR:root:load_list [7, 7, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 7, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 7, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 8, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 8, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 8, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 9, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 9, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [7, 9, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 7, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 7, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 7, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 8, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 8, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 8, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 9, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 9, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [8, 9, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 7, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 7, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 7, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 8, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 8, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 8, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 9, 7]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 9, 8]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+ERROR:root:load_list [9, 9, 9]
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:app_id, ['img-dnn', 'xapian', 'moses'], find_solution
+ERROR:root:find_solution
+
+

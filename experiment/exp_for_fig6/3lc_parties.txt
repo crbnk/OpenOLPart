@@ -1,0 +1,1934 @@
+ERROR:root:load_list [1, 1, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 1, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 2, 6]
+ERROR:root:use_time 9
+ERROR:root:load_list [1, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [1, 2, 8]
+ERROR:root:use_time 9
+ERROR:root:load_list [1, 2, 9]
+ERROR:root:use_time 9
+ERROR:root:load_list [1, 3, 1]
+ERROR:root:use_time 67
+ERROR:root:load_list [1, 3, 2]
+ERROR:root:use_time 9
+ERROR:root:load_list [1, 3, 3]
+ERROR:root:use_time 4
+ERROR:root:load_list [1, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [1, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [1, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [1, 3, 7]
+ERROR:root:use_time 8
+ERROR:root:load_list [1, 3, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 3, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 4, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 5, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 6, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 7, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 8, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 8, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [1, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [1, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [1, 8, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [1, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [1, 8, 7]
+ERROR:root:use_time 8
+ERROR:root:load_list [1, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [1, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [1, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [1, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [1, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [1, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [1, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [1, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [1, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [1, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 8
+ERROR:root:load_list [1, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 56
+ERROR:root:load_list [2, 1, 1]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [2, 1, 2]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 1, 3]
+ERROR:root:use_time 14
+ERROR:root:load_list [2, 1, 4]
+ERROR:root:use_time 6
+ERROR:root:load_list [2, 1, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 1, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 1, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 1, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 1, 9]
+ERROR:root:use_time 3
+ERROR:root:load_list [2, 2, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 2, 7]
+ERROR:root:use_time 9
+ERROR:root:load_list [2, 2, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 2, 9]
+ERROR:root:use_time 9
+ERROR:root:load_list [2, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 3, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 3, 3]
+ERROR:root:use_time 12
+ERROR:root:load_list [2, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 3, 6]
+ERROR:root:use_time 10
+ERROR:root:load_list [2, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 4, 1]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [2, 4, 2]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [2, 4, 3]
+ERROR:root:use_time 16
+ERROR:root:load_list [2, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 4, 5]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [2, 4, 6]
+ERROR:root:use_time 11
+ERROR:root:load_list [2, 4, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [2, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 11
+ERROR:root:load_list [2, 5, 1]
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 5, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 5, 3]
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 5, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 5, 5]
+ERROR:root:use_time 6
+ERROR:root:load_list [2, 5, 6]
+ERROR:root:use_time 63
+ERROR:root:load_list [2, 5, 7]
+ERROR:root:use_time 8
+ERROR:root:load_list [2, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [2, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 6, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 6, 2]
+ERROR:root:use_time 4
+ERROR:root:load_list [2, 6, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 56
+ERROR:root:load_list [2, 7, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 7, 2]
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 7, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 6
+ERROR:root:load_list [2, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 7, 8]
+ERROR:root:use_time 9
+ERROR:root:load_list [2, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [2, 8, 1]
+ERROR:root:use_time 66
+ERROR:root:load_list [2, 8, 2]
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 8, 3]
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [2, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 56
+ERROR:root:load_list [2, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [2, 9, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [2, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [2, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [2, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [2, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 1, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 1, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 1, 3]
+ERROR:root:use_time 12
+ERROR:root:load_list [3, 1, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 1, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 1, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 1, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 1, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 1, 9]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 2, 1]
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 2, 2]
+ERROR:root:use_time 75
+ERROR:root:load_list [3, 2, 3]
+ERROR:root:use_time 64
+ERROR:root:load_list [3, 2, 4]
+ERROR:root:use_time 58
+ERROR:root:load_list [3, 2, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [3, 2, 6]
+ERROR:root:use_time 6
+ERROR:root:load_list [3, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 2, 8]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [3, 2, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [3, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [3, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 3, 8]
+ERROR:root:use_time 17
+ERROR:root:load_list [3, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [3, 4, 1]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [3, 4, 2]
+ERROR:root:use_time 5
+ERROR:root:load_list [3, 4, 3]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [3, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 4, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [3, 4, 6]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [3, 4, 7]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [3, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [3, 5, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 5, 2]
+ERROR:root:use_time 11
+ERROR:root:load_list [3, 5, 3]
+ERROR:root:use_time 49
+ERROR:root:load_list [3, 5, 4]
+ERROR:root:use_time 12
+ERROR:root:load_list [3, 5, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 5, 6]
+ERROR:root:use_time 10
+ERROR:root:load_list [3, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 14
+ERROR:root:load_list [3, 6, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 6, 2]
+ERROR:root:use_time 64
+ERROR:root:load_list [3, 6, 3]
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 6, 4]
+ERROR:root:use_time 12
+ERROR:root:load_list [3, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 6, 6]
+ERROR:root:use_time 9
+ERROR:root:load_list [3, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 6, 9]
+ERROR:root:use_time 9
+ERROR:root:load_list [3, 7, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 7, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [3, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 7, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 10
+ERROR:root:load_list [3, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 9
+ERROR:root:load_list [3, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 8, 2]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 8, 3]
+ERROR:root:use_time 6
+ERROR:root:load_list [3, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [3, 8, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [3, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [3, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [3, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [3, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [3, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [3, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 11
+ERROR:root:load_list [3, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [3, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [3, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 56
+ERROR:root:load_list [3, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 1, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 1, 2]
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 1, 3]
+ERROR:root:use_time 15
+ERROR:root:load_list [4, 1, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 1, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 1, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 1, 7]
+ERROR:root:use_time 3
+ERROR:root:load_list [4, 1, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 1, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 6]
+ERROR:root:use_time 3
+ERROR:root:load_list [4, 2, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 2, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 3, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 4, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 5, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 5, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 5, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [4, 5, 4]
+ERROR:root:use_time 3
+ERROR:root:load_list [4, 5, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [4, 5, 6]
+ERROR:root:use_time 10
+ERROR:root:load_list [4, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [4, 6, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 6, 2]
+ERROR:root:use_time 73
+ERROR:root:load_list [4, 6, 3]
+ERROR:root:use_time 14
+ERROR:root:load_list [4, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [4, 6, 5]
+ERROR:root:use_time 51
+ERROR:root:load_list [4, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 6, 7]
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [4, 7, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 7, 2]
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 7, 3]
+ERROR:root:use_time 64
+ERROR:root:load_list [4, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [4, 7, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [4, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [4, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [4, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [4, 8, 1]
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 8, 2]
+ERROR:root:use_time 6
+ERROR:root:load_list [4, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [4, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 10
+ERROR:root:load_list [4, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [4, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [4, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [4, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [4, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [4, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [4, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [4, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [4, 9, 8]
+ERROR:root:use_time 8
+ERROR:root:load_list [4, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [5, 1, 1]
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 1, 2]
+ERROR:root:use_time 67
+ERROR:root:load_list [5, 1, 3]
+ERROR:root:use_time 14
+ERROR:root:load_list [5, 1, 4]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 1, 5]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 1, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 1, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 1, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 1, 9]
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 2, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 2, 2]
+ERROR:root:use_time 66
+ERROR:root:load_list [5, 2, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 2, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [5, 2, 5]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [5, 2, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 2, 8]
+ERROR:root:use_time 10
+ERROR:root:load_list [5, 2, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 3, 1]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 3, 5]
+ERROR:root:use_time 13
+ERROR:root:load_list [5, 3, 6]
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 3, 7]
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 4, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 4, 2]
+ERROR:root:use_time 69
+ERROR:root:load_list [5, 4, 3]
+ERROR:root:use_time 63
+ERROR:root:load_list [5, 4, 4]
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 4, 5]
+ERROR:root:use_time 64
+ERROR:root:load_list [5, 4, 6]
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 4, 7]
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 5, 1]
+ERROR:root:use_time 66
+ERROR:root:load_list [5, 5, 2]
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 5, 3]
+ERROR:root:use_time 58
+ERROR:root:load_list [5, 5, 4]
+ERROR:root:use_time 64
+ERROR:root:load_list [5, 5, 5]
+ERROR:root:use_time 56
+ERROR:root:load_list [5, 5, 6]
+ERROR:root:use_time 13
+ERROR:root:load_list [5, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [5, 5, 9]
+EERROR:root:Failed
+ERROR:root:use_time 16
+ERROR:root:load_list [5, 6, 1]
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 6, 2]
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 6, 3]
+ERROR:root:use_time 6
+ERROR:root:load_list [5, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 10
+ERROR:root:load_list [5, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 8
+ERROR:root:load_list [5, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 7, 1]
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 7, 2]
+ERROR:root:use_time 5
+ERROR:root:load_list [5, 7, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [5, 7, 4]
+ERROR:root:use_time 3
+ERROR:root:load_list [5, 7, 5]
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 7, 6]
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 8, 2]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [5, 8, 5]
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 8, 6]
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 9
+ERROR:root:load_list [5, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 7
+ERROR:root:load_list [5, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [5, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [5, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [5, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [5, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [5, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [5, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [6, 1, 1]
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 1, 2]
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 1, 3]
+ERROR:root:use_time 15
+ERROR:root:load_list [6, 1, 4]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 1, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 1, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 1, 7]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [6, 1, 8]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [6, 1, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 2, 1]
+ERROR:root:use_time 27
+ERROR:root:load_list [6, 2, 2]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [6, 2, 3]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 2, 4]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [6, 2, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 2, 6]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 2, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 2, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [6, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 3, 4]
+ERROR:root:use_time 12
+ERROR:root:load_list [6, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [6, 4, 1]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [6, 4, 2]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 4, 3]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [6, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 4, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [6, 4, 6]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 4, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 5, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 5, 2]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 5, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 5, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 5, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 5, 6]
+ERROR:root:use_time 12
+ERROR:root:load_list [6, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 6, 1]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [6, 6, 2]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 6, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [6, 6, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [6, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 7, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 7, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 7, 5]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [6, 7, 6]
+ERROR:root:use_time 11
+ERROR:root:load_list [6, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 8, 2]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [6, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 8, 6]
+ERROR:root:use_time 10
+ERROR:root:load_list [6, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [6, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [6, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [6, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [6, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 10
+ERROR:root:load_list [6, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [6, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [6, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [7, 1, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 1, 2]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 1, 3]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 1, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 1, 5]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [7, 1, 6]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [7, 1, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 1, 8]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [7, 1, 9]
+ERROR:root:use_time 28
+ERROR:root:load_list [7, 2, 1]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [7, 2, 2]
+ERROR:root:use_time 5
+ERROR:root:load_list [7, 2, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 2, 4]
+ERROR:root:use_time 3
+ERROR:root:load_list [7, 2, 5]
+ERROR:root:use_time 3
+ERROR:root:load_list [7, 2, 6]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 2, 7]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 2, 8]
+ERROR:root:use_time 6
+ERROR:root:load_list [7, 2, 9]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [7, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [7, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 4, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 4, 2]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [7, 4, 3]
+ERROR:root:use_time 15
+ERROR:root:load_list [7, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 4, 5]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 4, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 4, 7]
+ERROR:root:use_time 9
+ERROR:root:load_list [7, 4, 8]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 5, 1]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [7, 5, 2]
+ERROR:root:use_time 6
+ERROR:root:load_list [7, 5, 3]
+ERROR:root:use_time 1
+ERROR:root:load_list [7, 5, 4]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 5, 5]
+ERROR:root:use_time 16
+ERROR:root:load_list [7, 5, 6]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [7, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 6, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 6, 2]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 6, 3]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 6, 6]
+ERROR:root:use_time 12
+ERROR:root:load_list [7, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [7, 7, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 7, 2]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 7, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [7, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 8, 2]
+ERROR:root:use_time 5
+ERROR:root:load_list [7, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [7, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [7, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [7, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [7, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 9, 2]
+ERROR:root:use_time 6
+ERROR:root:load_list [7, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [7, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [7, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [7, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [7, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 1, 1]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 1, 2]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 1, 3]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 1, 4]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 1, 5]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [8, 1, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 1, 7]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 1, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 1, 9]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 2, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 2, 2]
+ERROR:root:Failed
+ERROR:root:use_time 73
+ERROR:root:load_list [8, 2, 3]
+ERROR:root:use_time 25
+ERROR:root:load_list [8, 2, 4]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [8, 2, 5]
+ERROR:root:use_time 11
+ERROR:root:load_list [8, 2, 6]
+ERROR:root:use_time 6
+ERROR:root:load_list [8, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 2, 8]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 2, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 67
+ERROR:root:load_list [8, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [8, 4, 1]
+ERROR:root:use_time 56
+ERROR:root:load_list [8, 4, 2]
+ERROR:root:use_time 1
+ERROR:root:load_list [8, 4, 3]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 4, 5]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 4, 6]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 4, 7]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 5, 1]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 5, 2]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 5, 3]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [8, 5, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [8, 5, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 5, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 6, 1]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 6, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 6, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [8, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 7, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [8, 7, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 7, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 56
+ERROR:root:load_list [8, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 8, 2]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [8, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [8, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [8, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [8, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [8, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [8, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [8, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [8, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [9, 1, 1]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [9, 1, 2]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 1, 3]
+ERROR:root:Failed
+ERROR:root:use_time 67
+ERROR:root:load_list [9, 1, 4]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 1, 5]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 1, 6]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 1, 7]
+ERROR:root:Failed
+ERROR:root:use_time 72
+ERROR:root:load_list [9, 1, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 1, 9]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 2, 1]
+ERROR:root:Failed
+ERROR:root:use_time 68
+ERROR:root:load_list [9, 2, 2]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 2, 3]
+ERROR:root:Failed
+ERROR:root:use_time 67
+ERROR:root:load_list [9, 2, 4]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 2, 5]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 2, 6]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 2, 7]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [9, 2, 8]
+ERROR:root:Failed
+ERROR:root:use_time 73
+ERROR:root:load_list [9, 2, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 3, 1]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 3, 2]
+ERROR:root:Failed
+ERROR:root:use_time 72
+ERROR:root:load_list [9, 3, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 3, 4]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [9, 3, 5]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [9, 3, 6]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 3, 7]
+ERROR:root:Failed
+ERROR:root:use_time 67
+ERROR:root:load_list [9, 3, 8]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 3, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 4, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 4, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 4, 3]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 4, 4]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [9, 4, 5]
+ERROR:root:Failed
+ERROR:root:use_time 69
+ERROR:root:load_list [9, 4, 6]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 4, 7]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [9, 4, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 4, 9]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 5, 1]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 5, 2]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 5, 3]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 5, 4]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 5, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 5, 6]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 5, 7]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 5, 8]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 5, 9]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 6, 1]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [9, 6, 2]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 6, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 6, 4]
+ERROR:root:Failed
+ERROR:root:use_time 66
+ERROR:root:load_list [9, 6, 5]
+ERROR:root:Failed
+ERROR:root:use_time 58
+ERROR:root:load_list [9, 6, 6]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 6, 7]
+ERROR:root:Failed
+ERROR:root:use_time 57
+ERROR:root:load_list [9, 6, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 6, 9]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 7, 1]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 7, 2]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 7, 3]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 7, 4]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 7, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 7, 6]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 7, 7]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 7, 8]
+ERROR:root:Failed
+ERROR:root:use_time 64
+ERROR:root:load_list [9, 7, 9]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 8, 1]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 8, 2]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 8, 3]
+ERROR:root:Failed
+ERROR:root:use_time 63
+ERROR:root:load_list [9, 8, 4]
+ERROR:root:Failed
+ERROR:root:use_time 60
+ERROR:root:load_list [9, 8, 5]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 8, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 8, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 8, 8]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 8, 9]
+ERROR:root:Failed
+ERROR:root:use_time 65
+ERROR:root:load_list [9, 9, 1]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 9, 2]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [9, 9, 3]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 9, 4]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 9, 5]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 9, 6]
+ERROR:root:Failed
+ERROR:root:use_time 61
+ERROR:root:load_list [9, 9, 7]
+ERROR:root:Failed
+ERROR:root:use_time 62
+ERROR:root:load_list [9, 9, 8]
+ERROR:root:Failed
+ERROR:root:use_time 59
+ERROR:root:load_list [9, 9, 9]
+ERROR:root:Failed
+ERROR:root:use_time 60
+
+
+If no "Failed" is displayed and "use_time" is less than 65,
+it means that PARTIES found the feasible solution.

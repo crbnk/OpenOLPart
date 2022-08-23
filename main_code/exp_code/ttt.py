@@ -1,11 +1,9 @@
-colocation_list = [['img-dnn', 'xapian', "moses"]]*1000
-load_list = []
+import random
+load_list =[]
+for ii in range(11):
+    i = random.randint(4,9)
+    j = random.randint(4,9)
+    m = random.randint(4,9)
+    load_list.append([i,j,m])
 
-for i in range(9,-1,-1):
-    for j in range(9,-1,-1):
-        for m in range(9,-1,-1):
-            load_list.append([i,j,m])
-
-
-
-
+print(load_list)
