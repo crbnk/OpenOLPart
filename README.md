@@ -19,9 +19,12 @@ PARSEC 3.0: https://parsec.cs.princeton.edu/parsec3-doc.htm
 |   |                   restart the server and use the code required for those jobs。
 |   |─Dockerfile: the docker file to build containers.
 |   |─correct_config.sh: the auxiliary file for Dockerfile.
-├─main_code:
+├─baseline: the implemention codes of baselines.
+├─experiment: data analysis and recording for each experiment.
+├─main_code: 
 |  ├─get_max_load: get max load of LC job 
-│    └─knee_all.py: the code for finding the QOS and max load of each LC job.      
+│    └─knee_all.py: the code for finding the QOS and max load of each LC job.  
+|  ├─exp_code: the operation documents of each experiment involved in the paper    
 |  ├─get_arm.py: generate resource configurations as arms.
 |  ├─run_and_get_config.py : some tool functions.
 |  ├─OLUCB.py: main algorithm of OLPart.
