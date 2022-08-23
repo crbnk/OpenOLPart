@@ -44,7 +44,7 @@ Click this link to confirm: https://github.com/intel/intel-cmt-cat.
 Each job is instantiated in a separate container, we use _docker_ to create containers.
 Please run _Dockerfile_ to create the containers. 
 >The open-loop load generators for LC jobs are provided by Tailbench itself. All the load generators use exponential inter-arrival time
-distributions to simulate a Poisson process, where requests are sent continuously and independently at a constant
+distributions to simulate a Poisson process, where requests are sent continuously and independently at a constant
 average rate.
 
 Then we record all evaluated jobs' docker ppid (as shown as _APP_DOCKER_PPID_ in file _run_and_get_config.py_ ).
