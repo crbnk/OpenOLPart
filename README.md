@@ -15,23 +15,23 @@ PARSEC 3.0: https://parsec.cs.princeton.edu/parsec3-doc.htm
 
 ## File Description
 ```
-©À©¤config: the config files and running commands for all evaluated jobs.
-©À©¤environment: some environment setting.
-|   ©À©¤env.sh: environment setting for running OLPart on the server at first time.
-|   ©À©¤rerun_docker.py: after each job has been instantiated in a separate container, 
-|   |                   restart the server and use the code required for those jobs¡£
-|   |©¤Dockerfile: the docker file to build containers.
-|   |©¤correct_config.sh: the auxiliary file for Dockerfile.
-©À©¤baseline: the implemention codes of baselines.
-©À©¤experiment: data analysis and recording for each experiment.
-©À©¤main_code: 
-|  ©À©¤get_max_load: get max load of LC job 
-©¦    ©¸©¤knee_all.py: the code for finding the QOS and max load of each LC job.  
-|  ©À©¤exp_code: the operation documents of each experiment involved in the paper    
-|  ©À©¤get_arm.py: generate resource configurations as arms.
-|  ©À©¤run_and_get_config.py : some tool functions.
-|  ©À©¤OLUCB.py: main algorithm of OLPart.
-|  ©À©¤vote_bandit.py : main file used to make online resource partitioning decisions.
+â”œâ”€config: the config files and running commands for all evaluated jobs.
+â”œâ”€environment: some environment setting.
+|   â”œâ”€env.sh: environment setting for running OLPart on the server at first time.
+|   â”œâ”€rerun_docker.py: after each job has been instantiated in a separate container, 
+|   |                   restart the server and use the code required for those jobsã€‚
+|   |â”€Dockerfile: the docker file to build containers.
+|   |â”€correct_config.sh: the auxiliary file for Dockerfile.
+â”œâ”€baseline: the implemention codes of baselines.
+â”œâ”€experiment: data analysis and recording for each experiment.
+â”œâ”€main_code: 
+|  â”œâ”€get_max_load: get max load of LC job 
+â”‚    â””â”€knee_all.py: the code for finding the QOS and max load of each LC job.  
+|  â”œâ”€exp_code: the operation documents of each experiment involved in the paper    
+|  â”œâ”€get_arm.py: generate resource configurations as arms.
+|  â”œâ”€run_and_get_config.py : some tool functions.
+|  â”œâ”€OLUCB.py: main algorithm of OLPart.
+|  â”œâ”€vote_bandit.py : main file used to make online resource partitioning decisions.
 ```
 
 ## Run OLPart:
