@@ -32,3 +32,8 @@ for ii in range(len(colocation_list)):
 
 ~~~
 
+Then, run the following command in the server:
+
+```
+python vote_bandit.py
+```

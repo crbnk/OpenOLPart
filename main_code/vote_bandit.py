@@ -14,13 +14,16 @@ from OLUCB import OLLinUCB
 
 
 
-def train_success(nof_counters,colocation_list,load_list,alpha,rounds):
+def train_success(nof_counters,colocation_list,load_list,alpha,rounds,context_flag=1,F=60):
     """
     :param nof_counters: Number of selected performance counters for providing contexts
     :param colocation_list: The coming colocations
     :param load_list: the loads of LC jobs
     :param alpha:  Explore-exploit parameter
     :param rounds: The Allowed Sampling Times For a Colocation
+    :param context_flag: X defaults to 1, indicating the complete OLPart.
+    :param F: the frequency of costructing a new version of bandits
+     If it is set to a value other than 1, it is the OLPart without context
     :return:
     """
 
@@ -29,7 +32,7 @@ def train_success(nof_counters,colocation_list,load_list,alpha,rounds):
     nof_colocation = len(colocation_list)
     # number of bandit versions
     mab_num = 3
-    mab_1 = OLLinUCB(nof_counters, alpha, colocation_list[0])
+    mab_1 = OLLinUCB(ndims=nof_counters, alpha=alpha, app_id = colocation_list[0],context_flag=context_flag)
     mab_2, mab_3 = 0, 0
     mab_list = [mab_1, mab_2, mab_3]
     mab_count = 1
@@ -60,13 +63,13 @@ def train_success(nof_counters,colocation_list,load_list,alpha,rounds):
         run_be_benchmark(be_job,core_list[len(lc_job):])
         load = load_list[col_items]
         for i in range(rounds):
-            if rounds % 60 == 0:
+            if rounds % F == 0:
                 if mab_count < mab_num:
-                    mab_list[mab_count] = OLLinUCB(nof_counters, alpha, colocation_list[col_items])
+                    mab_list[mab_count] = OLLinUCB(nof_counters, alpha, colocation_list[col_items],context_flag=context_flag)
                     mab_count += 1
                 else:
                     mab_count = 1
-                    mab_list[0] = OLLinUCB(nof_counters, alpha, colocation_list[col_items])
+                    mab_list[0] = OLLinUCB(nof_counters, alpha, colocation_list[col_items],context_flag=context_flag)
 
 
             if i == 0:
@@ -117,6 +120,7 @@ def train_success(nof_counters,colocation_list,load_list,alpha,rounds):
                 p95_list.extend([reward, i, "failed"])
                 f_w.writerow(p95_list)
                 logging.error("p95_list,{}".format(p95_list))
+
         stop_the_current_colocation()
 
         best_reward_id = np.argmax(reward_arms)
@@ -139,7 +143,7 @@ def onlineEvaluate(mab, reward, reward_arms, chosen_arms, cumulative_reward, con
 
     mab.update(chosen_arms[0], chosen_arms[1], chosen_arms[2], reward, context, another_context)
 
-    core_action, llc_action, band_action = mab.play(context, another_context, sample_times)
+    core_action, llc_action, band_action = mab.play(context, another_context,chosen_arms[0], chosen_arms[1], chosen_arms[2], sample_times)
 
     reward_arms.append(reward)
 
@@ -163,7 +167,7 @@ if __name__ == "__main__":
     performamce_counters = we_choose()
     nof_counters = len(performamce_counters)
 
-    alpha = 0.01
+
 
     # select one way to save results
     # txt
@@ -173,4 +177,4 @@ if __name__ == "__main__":
     f = open("ttt.csv", "w", newline="")
     f_w = csv.writer(f)
 
-    train_success(nof_counters=nof_counters,colocation_list=colocation_list,load_list=load_list,alpha=0.01,rounds=30)
+    train_success(nof_counters=nof_counters,colocation_list=colocation_list,load_list=load_list,alpha=0.01,rounds=30,context_flag=1,F=60)

@@ -10,7 +10,7 @@ for guaranteeing the QoS for all the three jobs.
 > So we set up the experiment from high load pressure to low pressure, and the first load list 
 that gives a positive reward is the maximum beared load list for LC jobs by the method.
 
-replace the commands in the line 158 and 160 in./main_code/vote_bandit.py with following codes
+replace the commands in the line 161 and 163 in./main_code/vote_bandit.py with following codes
 ~~~
 colocation_list = [['img-dnn', 'xapian', 'moses']]*1000
 load_list = []
@@ -22,7 +22,14 @@ for i in range(9,-1,-1):
 
 ~~~
 
-add the following code in the line 115 in in./main_code/vote_bandit.py
+To get a quick result, add the following code in the line 117 in ./main_code/vote_bandit.py 
+in the condition (_if reward > 0_) 
 ~~~
 break
 ~~~
+
+Then, run the following command in the server:
+
+```
+python vote_bandit.py
+```

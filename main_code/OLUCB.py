@@ -9,15 +9,22 @@ from get_arm import beam_search, get_llc_bandwith_config, list_duplicates
 
 class OLLinUCB():
 
-    def __init__(self, ndims, alpha, app_id, core_narms=9, llc_narms=55, band_namrms=10):
+    def __init__(self, ndims, alpha, app_id, core_narms=9, llc_narms=55, band_namrms=10,context_flag=1):
         self.num_app = len(app_id)
         self.app_id = app_id
 
         self.core_narms = core_narms
         self.llc_narms = llc_narms
         self.band_namrms = band_namrms
-        # number of context features
-        self.ndims = ndims
+
+        # without or with context
+        self.context_flag = context_flag
+        if self.context_flag != 1:
+            self.ndims = 1
+        else:
+            # number of context features
+            self.ndims = ndims
+
         # explore-exploit parameter
         self.alpha = alpha
 
@@ -87,7 +94,7 @@ class OLLinUCB():
         self.num_app = len(app_id)
         self.app_id = app_id
 
-    def play(self, context, other_context, times):
+    def play(self, context, other_context,core_arms, llc_arms, band_arms,times):
         assert len(context[self.app_id[0]]) == self.ndims, 'the shape of context size is wrong'
         llc_action = {}
         band_action = {}
@@ -97,7 +104,11 @@ class OLLinUCB():
         for key in self.app_id:
             A = self.A_c[key]
             b = self.b_c[key]
-            contexts[key] = np.hstack((context[key], other_context[key]))
+            if self.context_flag != 1:
+                contexts[key] = core_arms[key]
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
+
 
             for i in range(self.core_narms):
                 # initialize theta hat
@@ -109,6 +120,10 @@ class OLLinUCB():
 
             A = self.A_l[key]
             b = self.b_l[key]
+            if self.context_flag != 1:
+                contexts[key] = llc_arms[key]
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
             for i in range(self.llc_narms):
                 theta = inv(A[i]).dot(b[i])
                 cntx = np.array(contexts[key])
@@ -118,6 +133,10 @@ class OLLinUCB():
 
             A = self.A_b[key]
             b = self.b_b[key]
+            if self.context_flag != 1:
+                contexts[key] = band_arms[key]
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
             for i in range(self.band_namrms):
                 theta = inv(A[i]).dot(b[i])
                 cntx = np.array(contexts[key])
@@ -131,17 +150,24 @@ class OLLinUCB():
         contexts = {}
         for key in self.app_id:
             arm = core_arms[key]
-
-            contexts[key] = np.hstack((context[key], other_context[key]))
+            if self.context_flag != 1:
+                contexts[key] = arm
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
 
             self.A_c[key][arm] += np.outer(np.array(contexts[key]),
                                            np.array(contexts[key]))
-
             self.b_c[key][arm] = np.add(self.b_c[key][arm].T,
                                         np.array(contexts[key]) * reward).reshape(
                 self.ndims * 2, 1)
 
+
+
             arm = llc_arms[key]
+            if self.context_flag != 1:
+                contexts[key] = arm
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
             self.A_l[key][arm] += np.outer(np.array(contexts[key]),
                                            np.array(contexts[key]))
             self.b_l[key][arm] = np.add(self.b_l[key][arm].T,
@@ -149,6 +175,10 @@ class OLLinUCB():
                 self.ndims * 2, 1)
 
             arm = band_arms[key]
+            if self.context_flag != 1:
+                contexts[key] = arm
+            else:
+                contexts[key] = np.hstack((context[key], other_context[key]))
             self.A_b[key][arm] += np.outer(np.array(contexts[key]),
                                            np.array(contexts[key]))
             self.b_b[key][arm] = np.add(self.b_b[key][arm].T,
