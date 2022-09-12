@@ -8,4 +8,4 @@ import logging
 bench_name = sys.argv[1]
 threads = sys.argv[2]
 
-subprocess.call("cd /tmp/parsec-3.0 && /tmp/parsec-3.0/./run_crb.sh {} {}".format(bench_name,threads),shell=True)
+subprocess.call("cd /tmp/parsec-3.0 && /tmp/parsec-3.0/./run_parsec-3.0.sh {} {}".format(bench_name,threads),shell=True)
