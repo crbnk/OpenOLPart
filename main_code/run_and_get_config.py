@@ -270,8 +270,8 @@ def run_be_benchmark(be_list,core_list):
     total_command = []
 
     for i in range(len(be_list)):
-        cores=  int(core_list[-1]) - int(core_list[0]) + 1
-        command = f"docker exec {app_docker_dict[be_list[i]]} taskset -c {core_list[i]} python /tmp/parsec-3.0/./run_parsec-3.0.py {bg_list[i]} {cores} &"
+        cores=  int(core_list[-len(be_list)+i][-1]) - int(core_list[-len(be_list)+i][0]) + 1
+        command = f"docker exec {APP_DOCKER_DICT[be_list[i]]} taskset -c {core_list[i]} python /tmp/parsec-3.0/./run_parsec-3.0.py {bg_list[i]} {cores} &"
         total_command.append(command)
     subprocess.call(" ".join(total_command), shell=True, stdout= open(os.devnull, 'w'))
     # warm up
@@ -286,7 +286,7 @@ def run_lc_benchmark(lc_list, load_list,core_list):
         print(i,lc_list[i],load_list[i])
         qps = LC_APP_QPSES[lc_list[i]][load_list[i]]
         cores = int(core_list[i][-1]) - int(core_list[i][0]) +1
-        command = f"docker exec {app_docker_dict[lc_list[i]]} taskset -c {core_list[i]} python /tmp/tailbench-v0.9/{lc_list[i]}/run_tail.py {lc_list[i]}{qps} {cores} &"
+        command = f"docker exec {APP_DOCKER_DICT[lc_list[i]]} taskset -c {core_list[i]} python /tmp/tailbench-v0.9/{lc_list[i]}/run_tail.py {lc_list[i]}{qps} {cores} &"
         total_command.append(command)
     subprocess.call(" ".join(total_command), shell=True, stdout= open(os.devnull, 'w'))
 
