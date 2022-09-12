@@ -251,7 +251,7 @@ def run_lc_benchmark(lc_list, load_list, core_list):
 def run_be_benchmark(bg_list, core_list):
     total_command = []
     for i in range(len(bg_list)):
-        cores = int(core_list[i][-1]) - int(core_list[i][0]) + 1
+        cores = int(core_list[-len(bg_list) + i][-1]) - int(core_list[-len(bg_list) + i][0]) + 1
         command = f"docker exec {app_docker_dict[bg_list[i]]} taskset -c {core_list[i]} python /tmp/parsec-3.0/./run_crb.py {bg_list[i]} {cores} &"
         total_command.append(command)
 

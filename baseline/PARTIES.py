@@ -14,9 +14,9 @@ curPath = os.path.abspath(os.path.dirname(__file__))
 rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
 
-from clite.clite import run_lc_benchmark,run_bg_benchmark,get_LC_app_latency_and_judge
-from bandit.run_and_getconfig_qos import refer_core,gen_init_config,read_IPS_directlty,APP_docker_ppid
-from bandit.get_arm_qos import arm_cor_numapp, get_llc_bandwith_config
+from clite import run_lc_benchmark,run_be_benchmark,get_LC_app_latency_and_judge
+from main_code.run_and_get_config import refer_core,gen_init_config,APP_docker_ppid
+from main_code.get_arm import get_llc_bandwith_config
 import subprocess
 TASKSET       = "sudo taskset -acp "
 COS_CAT_SET1  = "sudo pqos -e \"llc:%s=%s\""
@@ -51,11 +51,11 @@ def get_be_ipc(LC_APPS,BG_APPS,app_cores):
         out = os.popen(cmd_run).read()
         if len(out.splitlines()) < 2:
             print("====================rerun")
-            run_bg_benchmark(BG_APPS, app_cores[j + len(LC_APPS)])
+            run_be_benchmark(BG_APPS, app_cores[j + len(LC_APPS)])
         insn_tmp.append(f"insn per cycle_{str(BG_APPS[j])}")
         re = subprocess.call(f'sudo taskset -apc {app_cores[j+ len(LC_APPS)]} {APP_docker_ppid[BG_APPS[j]]} > /dev/null', shell=True)
 
-        perf_command = f"sudo perf stat -e {event} -C {app_cores[j + len(LC_APPS)]} sleep 0.5"
+        perf_command = f"sudo perf stat -e {performamce_counters} -C {app_cores[j + len(LC_APPS)]} sleep 0.5"
         total_command.append(perf_command)
 
     r = subprocess.run("&".join(total_command), shell=True, check=True,
@@ -90,7 +90,7 @@ def main(LC_APPS,BE_APPS,lOAD_LIST):
 
     core_list,llc_config,mb_config,_ = gen_init_config(APPS,llc_arm_orders,alg="fair")
     time.sleep(1)
-    run_bg_benchmark(BE_APPS, core_list[len(LC_APPS):])
+    run_be_benchmark(BE_APPS, core_list[len(LC_APPS):])
 
     gen_init_resource_state(core_list,llc_config,mb_config)
 
@@ -316,7 +316,7 @@ if __name__ == "__main__":
     NUM_WAYS = 10
     NUM_BW = 10
     resource_limit_dict = {0:NUM_CORES,1:NUM_WAYS,2:NUM_BW}
-
+    performamce_counters = we_choose()
     llc_arm_orders, mb_arm_orders = get_llc_bandwith_config()
 
 
